@@ -16,7 +16,7 @@ class Solution(object):
         if not root:
             return False
 
-        # Leaf node
+    
         if not root.left and not root.right:
             return targetSum == root.val
 
