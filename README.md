@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Jithin-sankar/leetcode/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/Jithin-sankar/leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
