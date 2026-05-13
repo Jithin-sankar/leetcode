@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jithin-sankar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jithin-sankar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jithin-sankar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Jithin-sankar/leetcode/tree/master/0396-rotate-function) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithin-sankar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -68,12 +70,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jithin-sankar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jithin-sankar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
