@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jithin-sankar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jithin-sankar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Jithin-sankar/leetcode/tree/master/0396-rotate-function) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithin-sankar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jithin-sankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
