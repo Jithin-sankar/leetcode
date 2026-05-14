@@ -5,6 +5,6 @@ class Solution(object):
 
         n = len(nums) - 1
 
-        expected = list(range(1, n + 1)) + [n]
+        ex= list(range(1, n + 1)) + [n]
 
-        return nums == expected
+        return nums == ex
