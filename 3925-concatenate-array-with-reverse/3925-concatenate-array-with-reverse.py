@@ -1,5 +1,7 @@
 class Solution(object):
     def concatWithReverse(self, nums):
-        return nums+nums[::-1]
+        n=len(nums)
+        ans=nums[:]+nums[::-1]
+        return ans
       
        
