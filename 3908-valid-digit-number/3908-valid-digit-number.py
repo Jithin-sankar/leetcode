@@ -1,7 +1,6 @@
 class Solution(object):
     def validDigit(self, n, x):
-        s=str(n)
-        x=str(x)
-        return x in s and s[0]!= x
+       s = str(n)
+       return str(x) in s and s[0] != str(x)
         
         
