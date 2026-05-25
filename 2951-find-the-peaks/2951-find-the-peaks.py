@@ -1,9 +1,6 @@
 class Solution(object):
-    def findPeaks(self, mountain):
-        peaks = []
-        
-        for i in range(1, len(mountain) - 1):
-            if mountain[i] > mountain[i - 1] and mountain[i] > mountain[i + 1]:
-                peaks.append(i)
-        
-        return peaks
+    def findPeaks(self, m):
+        l = []
+        for i in range(1,len(m)-1):
+            if m[i] >m[i-1] and m[i] > m[i+1]: l.append(i)
+        return l
