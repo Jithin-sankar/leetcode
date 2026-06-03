@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Jithin-sankar/leetcode/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/Jithin-sankar/leetcode/tree/master/0396-rotate-function) |
+| [0504-base-7](https://github.com/Jithin-sankar/leetcode/tree/master/0504-base-7) |
 | [0788-rotated-digits](https://github.com/Jithin-sankar/leetcode/tree/master/0788-rotated-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithin-sankar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jithin-sankar/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
+| [0504-base-7](https://github.com/Jithin-sankar/leetcode/tree/master/0504-base-7) |
 | [1816-truncate-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jithin-sankar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1859-sorting-the-sentence) |
