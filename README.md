@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Jithin-sankar/leetcode/tree/master/0396-rotate-function) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithin-sankar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Jithin-sankar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1816-truncate-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1816-truncate-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jithin-sankar/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/Jithin-sankar/leetcode/tree/master/2540-minimum-common-value) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jithin-sankar/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Jithin-sankar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
