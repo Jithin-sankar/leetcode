@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jithin-sankar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1859-sorting-the-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Jithin-sankar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jithin-sankar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3894-traffic-signal-color](https://github.com/Jithin-sankar/leetcode/tree/master/3894-traffic-signal-color) |
 ## Linked List
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Jithin-sankar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1816-truncate-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1816-truncate-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jithin-sankar/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Jithin-sankar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2540-minimum-common-value](https://github.com/Jithin-sankar/leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Jithin-sankar/leetcode/tree/master/2951-find-the-peaks) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Jithin-sankar/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Jithin-sankar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
