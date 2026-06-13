@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jithin-sankar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/Jithin-sankar/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jithin-sankar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3838-weighted-word-mapping](https://github.com/Jithin-sankar/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Jithin-sankar/leetcode/tree/master/3894-traffic-signal-color) |
 ## Linked List
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Jithin-sankar/leetcode/tree/master/2951-find-the-peaks) |
 | [3668-restore-finishing-order](https://github.com/Jithin-sankar/leetcode/tree/master/3668-restore-finishing-order) |
+| [3838-weighted-word-mapping](https://github.com/Jithin-sankar/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Jithin-sankar/leetcode/tree/master/0258-add-digits) |
+| [3838-weighted-word-mapping](https://github.com/Jithin-sankar/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Jithin-sankar/leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
