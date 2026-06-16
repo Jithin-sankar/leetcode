@@ -1,10 +1,7 @@
 class Solution(object):
     def findGCD(self, nums):
-        smallest = min(nums)
-        largest = max(nums)
-
-        while largest % smallest != 0:
-            largest, smallest = smallest, largest % smallest
-
-        return smallest
-        
+        small = min(nums)
+        large = max(nums)
+        while large:
+            small,large = large,small%large
+        return small
