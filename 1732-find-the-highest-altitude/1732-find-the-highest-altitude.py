@@ -1,12 +1,13 @@
 class Solution(object):
-    def largestAltitude(self, gains):
-        curr_alt = 0 
-        max_alt = curr_alt 
-
-        for n in gains:
-            curr_alt += n 
-            max_alt = max(max_alt, curr_alt)
-
-        return max_alt
+    def largestAltitude(self, gain):
+        """
+        :type gain: List[int]
+        :rtype: int
+        """
+        alt = [0]
+        for i in range(1, len(gain)+1):
+            alt.append(gain[i-1] + alt[i-1])
+        
+        return max(alt)
 
         
