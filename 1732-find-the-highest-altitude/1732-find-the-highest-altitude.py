@@ -1,12 +1,12 @@
 class Solution(object):
-    def largestAltitude(self, gain):
-        altitude = 0
-        highest = 0
+    def largestAltitude(self, gains):
+        curr_alt = 0 
+        max_alt = curr_alt 
 
-        for g in gain:
-            altitude += g
-            if altitude > highest:
-                highest = altitude
+        for n in gains:
+            curr_alt += n 
+            max_alt = max(max_alt, curr_alt)
 
-        return highest
+        return max_alt
+
         
