@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
 | [0504-base-7](https://github.com/Jithin-sankar/leetcode/tree/master/0504-base-7) |
+| [0551-student-attendance-record-i](https://github.com/Jithin-sankar/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Jithin-sankar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1816-truncate-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jithin-sankar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
