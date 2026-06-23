@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Jithin-sankar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Jithin-sankar/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Jithin-sankar/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/Jithin-sankar/leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Jithin-sankar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Jithin-sankar/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Jithin-sankar/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1816-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jithin-sankar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithin-sankar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Jithin-sankar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Jithin-sankar/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Binary Search
 |  |
 | ------- |
