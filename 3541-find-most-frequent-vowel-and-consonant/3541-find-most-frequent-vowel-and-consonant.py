@@ -1,8 +1,6 @@
 class Solution(object):
     def maxFreqSum(self, s):
         freq = {}
-        
-       
         for ch in s:
             freq[ch] = freq.get(ch, 0) + 1
 
