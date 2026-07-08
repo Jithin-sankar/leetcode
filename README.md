@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jithin-sankar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Jithin-sankar/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Jithin-sankar/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jithin-sankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jithin-sankar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Jithin-sankar/leetcode/tree/master/0396-rotate-function) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithin-sankar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jithin-sankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jithin-sankar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Jithin-sankar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/Jithin-sankar/leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jithin-sankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jithin-sankar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1859-sorting-the-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jithin-sankar/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jithin-sankar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Jithin-sankar/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2540-minimum-common-value](https://github.com/Jithin-sankar/leetcode/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
