@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Jithin-sankar/leetcode/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jithin-sankar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/Jithin-sankar/leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2678-number-of-senior-citizens](https://github.com/Jithin-sankar/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Jithin-sankar/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jithin-sankar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/Jithin-sankar/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jithin-sankar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Jithin-sankar/leetcode/tree/master/2540-minimum-common-value) |
+| [2678-number-of-senior-citizens](https://github.com/Jithin-sankar/leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Jithin-sankar/leetcode/tree/master/2951-find-the-peaks) |
 | [3668-restore-finishing-order](https://github.com/Jithin-sankar/leetcode/tree/master/3668-restore-finishing-order) |
