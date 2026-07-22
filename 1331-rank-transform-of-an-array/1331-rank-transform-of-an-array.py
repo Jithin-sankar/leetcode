@@ -1,12 +1,8 @@
 class Solution(object):
     def arrayRankTransform(self, arr):
-        # Get unique elements and sort them
-        sorted_arr = sorted(set(arr))
-
-        # Assign rank to each unique element
-        rank = {}
-        for i, num in enumerate(sorted_arr):
-            rank[num] = i + 1
-
-        # Replace each element with its rank
-        return [rank[num] for num in arr]
+        temp=set(arr)
+        sorted_nums=sorted(list(temp))
+        n=len(arr)
+        for i in range(n):
+            arr[i] = bisect_left(sorted_nums, arr[i]) + 1
+        return arr
