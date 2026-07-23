@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jithin-sankar/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jithin-sankar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Jithin-sankar/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Jithin-sankar/leetcode/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jithin-sankar/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3894-traffic-signal-color](https://github.com/Jithin-sankar/leetcode/tree/master/3894-traffic-signal-color) |
@@ -163,9 +164,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Jithin-sankar/leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jithin-sankar/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Jithin-sankar/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Jithin-sankar/leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Jithin-sankar/leetcode/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/Jithin-sankar/leetcode/tree/master/2951-find-the-peaks) |
 ## Greedy
 |  |
