@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Jithin-sankar/leetcode/tree/master/2427-number-of-common-factors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Jithin-sankar/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jithin-sankar/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jithin-sankar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3894-traffic-signal-color](https://github.com/Jithin-sankar/leetcode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Jithin-sankar/leetcode/tree/master/3908-valid-digit-number) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Jithin-sankar/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/Jithin-sankar/leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/Jithin-sankar/leetcode/tree/master/2678-number-of-senior-citizens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jithin-sankar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Jithin-sankar/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jithin-sankar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3838-weighted-word-mapping](https://github.com/Jithin-sankar/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jithin-sankar/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jithin-sankar/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
 | ------- |
