@@ -1,14 +1,15 @@
-from collections import Counter
-
 class Solution(object):
     def minimumPushes(self, word):
-        freq = Counter(word)
-
-        # Sort frequencies in descending order
-        counts = sorted(freq.values(), reverse=True)
-
-        pushes = 0
-        for i, count in enumerate(counts):
-            pushes += count * (i // 8 + 1)
-
-        return pushes
+        a=len(word)
+        ans=0
+        i=1
+        while a>0:
+            if a>=8:
+                ans+=8*i
+                i+=1
+                a-=8
+            else:
+                ans+=a*i
+                a=0
+                i+=1
+        return ans
