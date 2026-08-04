@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Jithin-sankar/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Jithin-sankar/leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jithin-sankar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Jithin-sankar/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Jithin-sankar/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Jithin-sankar/leetcode/tree/master/2951-find-the-peaks) |
 | [3668-restore-finishing-order](https://github.com/Jithin-sankar/leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jithin-sankar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/Jithin-sankar/leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/Jithin-sankar/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/Jithin-sankar/leetcode/tree/master/3921-score-validator) |
 ## Dynamic Programming
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/Jithin-sankar/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jithin-sankar/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Jithin-sankar/leetcode/tree/master/2784-check-if-array-is-good) |
+| [3731-find-missing-elements](https://github.com/Jithin-sankar/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
