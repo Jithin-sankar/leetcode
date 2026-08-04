@@ -1,13 +1,10 @@
 class Solution(object):
     def findMissingElements(self, nums):
-        mn = min(nums)
-        mx = max(nums)
+        n=max(nums)
+        m=min(nums)
 
-        s = set(nums)
-        result = []
-
-        for i in range(mn + 1, mx):
-            if i not in s:
-                result.append(i)
-
-        return result
+        res=[]
+        for i in range(m,n):
+            if i not in nums:
+                res.append(i)
+        return res
