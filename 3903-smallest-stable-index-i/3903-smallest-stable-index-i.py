@@ -1,9 +1,9 @@
 class Solution(object):
     def firstStableIndex(self, nums, k):
-        ans=-1
         for i in range(len(nums)):
-            mini=max(nums[:i+1])-min(nums[i:])
-            print(mini)
-            if mini<=k:
+            maxi = max(nums[:i+1])
+            mini =  min(nums[i:])
+            diff = maxi - mini
+            if diff<=k:
                 return i
-        return ans
+        return -1
