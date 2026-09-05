@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0020-valid-parentheses) |
 | [0504-base-7](https://github.com/Jithin-sankar/leetcode/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/Jithin-sankar/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Jithin-sankar/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -224,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Jithin-sankar/leetcode/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
