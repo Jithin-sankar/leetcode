@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0022-generate-parentheses) |
 | [0504-base-7](https://github.com/Jithin-sankar/leetcode/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/Jithin-sankar/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Jithin-sankar/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0022-generate-parentheses) |
 | [0396-rotate-function](https://github.com/Jithin-sankar/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Jithin-sankar/leetcode/tree/master/0788-rotated-digits) |
 ## Tree
@@ -237,4 +239,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
