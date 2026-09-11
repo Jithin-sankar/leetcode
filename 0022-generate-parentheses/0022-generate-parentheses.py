@@ -1,20 +1,27 @@
 class Solution(object):
     def generateParenthesis(self, n):
+        total = 0
         result = []
+        ind = 0
+        num = [""] * (n * 2)
 
-        def backtrack(current, open_count, close_count):
-            # If the string is complete
-            if len(current) == 2 * n:
-                result.append(current)
+        def solve(ind, total):
+            if ind == len(num):
+                if total == 0:
+                    result.append("".join(num))
                 return
 
-            # Add an opening parenthesis
-            if open_count < n:
-                backtrack(current + "(", open_count + 1, close_count)
+            if total > len(num) // 2:
+                return
 
-            # Add a closing parenthesis
-            if close_count < open_count:
-                backtrack(current + ")", open_count, close_count + 1)
+            if total < 0:
+                return
 
-        backtrack("", 0, 0)
+            num[ind] = "("
+            solve(ind + 1, total + 1)
+
+            num[ind] = ")"
+            solve(ind + 1, total - 1)
+
+        solve(ind, total)
         return result
