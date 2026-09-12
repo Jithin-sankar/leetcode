@@ -1,9 +1,10 @@
 class Solution(object):
     def countCommas(self, n):
-        if n < 1000:
+        count = 0 
+        if n <=999:
             return 0
-        return n - 999
-
-
-sol = Solution()
-print(sol.countCommas(3870))  # 2871
+        else:
+            for i in range(1000,n):
+                count+=1
+            return count+1
+        
