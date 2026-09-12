@@ -4,6 +4,6 @@ class Solution(object):
             return 0
         return n - 999
 
-# Example
+
 sol = Solution()
 print(sol.countCommas(3870))  # 2871
