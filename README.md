@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Jithin-sankar/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Jithin-sankar/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Jithin-sankar/leetcode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/Jithin-sankar/leetcode/tree/master/0396-rotate-function) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Jithin-sankar/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Jithin-sankar/leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Jithin-sankar/leetcode/tree/master/0067-add-binary) |
 | [0504-base-7](https://github.com/Jithin-sankar/leetcode/tree/master/0504-base-7) |
 | [0551-student-attendance-record-i](https://github.com/Jithin-sankar/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Jithin-sankar/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jithin-sankar/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Jithin-sankar/leetcode/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Jithin-sankar/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/Jithin-sankar/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Jithin-sankar/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Jithin-sankar/leetcode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
